@@ -6,7 +6,7 @@ Given some sample data, write a program to answer the following: click here to a
     - The reason why the AOV is so large is because some orders purchased large amount of sneakers per order which would increase the value per order, these extreme values could effect AOV.
     - We can calculate value per sneakers to check if the value per sneakers is reasonable, then calculate the average value per sneakers.
 3. What metric would you report for this dataset?
-    - 
+
 5. What is its value?
     - Average value per sneakers is $152.48.
     - After I calculated the value per sneakers in each order, I found some orders have unreasonable high value of sneakers, so I deleted these outliers to increase the accuracy.
@@ -18,7 +18,8 @@ queries along with your final numerical answers below.
     - 54 orders were shipped by Speedy Express.
     - ![image](https://user-images.githubusercontent.com/82549782/150240156-beba64af-9163-4d58-a6f8-6406107331ff.png)
 2. What is the last name of the employee with the most orders?
-    - The last name of the employee with the most orders is    
+    - The last name of the employee with the most orders is Peacock.
+    - ![image](https://user-images.githubusercontent.com/82549782/150249597-21349841-90d3-4fe1-921e-8721572f97cd.png)
 3. What product was ordered the most by customers in Germany?
     - Gorgonzola Telino was ordered the most by customers in Germany.
     - ![image](https://user-images.githubusercontent.com/82549782/150244173-844fabd0-3467-475f-8316-c8faa2e3a4c8.png)
